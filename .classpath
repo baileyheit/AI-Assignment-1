@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="searchclient/searchclient_java"/>
+	<classpathentry kind="lib" path="searchclient/server.jar"/>
+	<classpathentry kind="output" path="searchclient/searchclient_java"/>
+</classpath>

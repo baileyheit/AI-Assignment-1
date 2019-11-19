@@ -1,0 +1,25 @@
+#domain
+hospital
+#levelname
+sokobon-78
+#colors
+blue: 0, A
+#initial
+++++++++
++      +
++ ++ + +
++ A0A  +
+++AA +++
+ +    +
+ + A  +
+ ++++++
+#goal
+++++++++
++A     +
++ ++ + +
++ A A  +
+++  A+++
+ +    +
+ +A   +
+ ++++++
+#end
